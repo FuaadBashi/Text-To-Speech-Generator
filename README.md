@@ -1,14 +1,7 @@
 # Text-To-Speech-Generator
 A simple Python-based text-to-speech application using gtts and tkinter. Enter text into a GUI input field, click START, and hear the text converted to speech. Audio is saved as output.mp3 and played using your system's media player. Easy to use, lightweight, and customizable for future enhancements.
 
-
-Here’s a detailed **GitHub README** for your **Text-to-Speech App** using the provided code.
-
----
-
-# Text-to-Speech App 🎤  
-
-This is a simple **Text-to-Speech Converter** built with Python's **Tkinter** for the graphical user interface and **gTTS (Google Text-to-Speech)** for generating speech from text.  
+This is a simple **Text-to-Speech Generator** built with Python's **Tkinter** for the graphical user interface and **gTTS (Google Text-to-Speech)** for generating speech from text.  
 
 ---
 
